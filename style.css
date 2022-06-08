@@ -153,11 +153,11 @@ section {
 nav {
   display: flex;
 
-  /* padding-inline: 2.4rem;
-  padding-block: 1.6rem; */
+  padding-inline: 2.4rem;
+  padding-block: 1.6rem;
   height: var(--nav-height);
 
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
@@ -200,6 +200,7 @@ nav.scroll button path {
   justify-content: space-evenly;
   width: 150%;
 }
+
 /*==============================MENU-EXPANDED==================*/
 body.menu-expanded {
   overflow: hidden;
