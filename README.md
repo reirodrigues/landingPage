@@ -1,3 +1,3 @@
-# Web Mobile
-My first project
+# Mariah Moda Fitnes
+Meu primeiro projeto, loja de roupa fitnes.
 in progress
